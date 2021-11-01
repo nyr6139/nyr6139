@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyr6139&layout=compact)](https://github.com/nyr6139/github-readme-stats)
 
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=nyr6139&show_icons=true&theme=dracula)
+<!-- ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=nyr6139&show_icons=true&theme=dracula) -->
 
