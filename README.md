@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Hello%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align=center><h1>👋 Hello </h1></div> <div align=center>
+<div align=center><h1> </h1></div> <div align=center>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
